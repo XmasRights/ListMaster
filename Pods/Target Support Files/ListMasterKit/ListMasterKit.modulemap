@@ -1,0 +1,6 @@
+framework module ListMasterKit {
+  umbrella header "ListMasterKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

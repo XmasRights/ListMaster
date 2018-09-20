@@ -1,0 +1,16 @@
+PODS:
+  - ListMasterKit (0.0.1)
+
+DEPENDENCIES:
+  - ListMasterKit (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/XmasRights/XmasRights-PodSpecs.git:
+    - ListMasterKit
+
+SPEC CHECKSUMS:
+  ListMasterKit: 623b3be745f199337a54b26ed80a4c5a58fd1d54
+
+PODFILE CHECKSUM: d29872718811769e0a9063b52a09278d4e6457f5
+
+COCOAPODS: 1.5.3
